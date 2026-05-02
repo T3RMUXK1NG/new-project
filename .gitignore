@@ -1,0 +1,21 @@
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+# Output
+output/
+*.enc
+*.dec
