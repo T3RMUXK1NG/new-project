@@ -1,6 +1,6 @@
 # 🚀 New Project
 
-[![GitHub](https://img.shields.io/badge/GitHub-rajsaraswati--jatavv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajsaraswati-jatavv)
+[![GitHub](https://img.shields.io/badge/GitHub-t3rmuxk1ng--jatavv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/T3RMUXK1NG)
 [![YouTube](https://img.shields.io/badge/YouTube-T3rmuxk1ng-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@T3rmuxk1ng)
 
 > A new project by [T3rmuxk1ng](https://youtube.com/@T3rmuxk1ng) — coming soon!
@@ -18,16 +18,16 @@ Stay tuned for updates!
 ## 🔗 Links
 
 - **YouTube**: [https://youtube.com/@T3rmuxk1ng](https://youtube.com/@T3rmuxk1ng)
-- **GitHub**: [rajsaraswati-jatavv](https://github.com/rajsaraswati-jatavv)
+- **GitHub**: [T3RMUXK1NG](https://github.com/T3RMUXK1NG)
 
 ---
 
 ## 👤 Author
 
-**Rajsaraswati Jatav (T3rmuxk1ng)**
+**T3RMUXK1NG (T3rmuxk1ng)**
 
 - YouTube: [https://youtube.com/@T3rmuxk1ng](https://youtube.com/@T3rmuxk1ng)
-- GitHub: [rajsaraswati-jatavv](https://github.com/rajsaraswati-jatavv)
+- GitHub: [T3RMUXK1NG](https://github.com/T3RMUXK1NG)
 
 ---
 
